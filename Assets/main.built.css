@@ -1,0 +1,19 @@
+/* Error: Undefined variable.
+ *     ,
+ * 142 |       values: $utilities-border-colors
+ *     |               ^^^^^^^^^^^^^^^^^^^^^^^^
+ *     '
+ *   node_modules\bootstrap\scss\_utilities.scss 142:15  @import
+ *   Assets\main.scss 4:9                                root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined variable.\a     \2577 \a 142 \2502        values: $utilities-border-colors\a     \2502                ^^^^^^^^^^^^^^^^^^^^^^^^\a     \2575 \a   node_modules\\bootstrap\\scss\\_utilities.scss 142:15  @import\a   Assets\\main.scss 4:9                                root stylesheet";
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uYnVpbHQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7Ozs7MEVBTTBFOztBQUUxRTtFQUNFOzZDQUMyQztFQUMzQyxnQkFBZ0I7RUFDaEIsY0FBYztFQUNkLFlBQVk7RUFDWixrQkFBa0I7RUFDbEIsOEJBQThCO0VBQzlCLG1UQUFtVDtBQUNyVCIsImZpbGUiOiJtYWluLmJ1aWx0LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIEVycm9yOiBVbmRlZmluZWQgdmFyaWFibGUuXG4gKiAgICAgLFxuICogMTQyIHwgICAgICAgdmFsdWVzOiAkdXRpbGl0aWVzLWJvcmRlci1jb2xvcnNcbiAqICAgICB8ICAgICAgICAgICAgICAgXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXG4gKiAgICAgJ1xuICogICBub2RlX21vZHVsZXNcXGJvb3RzdHJhcFxcc2Nzc1xcX3V0aWxpdGllcy5zY3NzIDE0MjoxNSAgQGltcG9ydFxuICogICBBc3NldHNcXG1haW4uc2NzcyA0OjkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvb3Qgc3R5bGVzaGVldCAqL1xuXG5ib2R5OjpiZWZvcmUge1xuICBmb250LWZhbWlseTogXCJTb3VyY2UgQ29kZSBQcm9cIiwgXCJTRiBNb25vXCIsIE1vbmFjbywgSW5jb25zb2xhdGEsIFwiRmlyYSBNb25vXCIsXG4gICAgICBcIkRyb2lkIFNhbnMgTW9ub1wiLCBtb25vc3BhY2UsIG1vbm9zcGFjZTtcbiAgd2hpdGUtc3BhY2U6IHByZTtcbiAgZGlzcGxheTogYmxvY2s7XG4gIHBhZGRpbmc6IDFlbTtcbiAgbWFyZ2luLWJvdHRvbTogMWVtO1xuICBib3JkZXItYm90dG9tOiAycHggc29saWQgYmxhY2s7XG4gIGNvbnRlbnQ6IFwiRXJyb3I6IFVuZGVmaW5lZCB2YXJpYWJsZS5cXGEgICAgIFxcMjU3NyBcXGEgMTQyIFxcMjUwMiAgICAgICAgdmFsdWVzOiAkdXRpbGl0aWVzLWJvcmRlci1jb2xvcnNcXGEgICAgIFxcMjUwMiAgICAgICAgICAgICAgICBeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5cXGEgICAgIFxcMjU3NSBcXGEgICBub2RlX21vZHVsZXNcXFxcYm9vdHN0cmFwXFxcXHNjc3NcXFxcX3V0aWxpdGllcy5zY3NzIDE0MjoxNSAgQGltcG9ydFxcYSAgIEFzc2V0c1xcXFxtYWluLnNjc3MgNDo5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb290IHN0eWxlc2hlZXRcIjtcbn1cbiJdfQ== */
